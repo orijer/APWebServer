@@ -1,0 +1,21 @@
+{
+  "name": "advancedsystemsprogrammingproject_3_server",
+  "version": "1.0.0",
+  "description": "A repository that will hold the code for the mongoDB server we created that will communicated with the WEB abd ANDROID apps we created last time.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "custom-env": "^2.0.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.1.3"
+  }
+}
